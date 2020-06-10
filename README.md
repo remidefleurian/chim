@@ -12,7 +12,7 @@ This dataset is associated with the following article, and can be cited as such:
 
 > de Fleurian, R., & Pearce, M. T. (xxxx). Chills in music: A critical review. *Neurosci. Biobehav. Rev.*, *xx*, xxx–xxx. doi: [10.1016/j.neubiorev.xxxx.xx.xxx](https://doi.org/10.1016/j.neubiorev.xxxx.xx.xxx)
 
-A description of the dataset is available on the [permanent archive](https://doi.org/10.17605/osf.io/*****) of v1.0 on OSF. The [latest release](https://doi.org/10.5281/zenodo.3888849) and previous releases of ChillsMus are available in this repository, and are permanently archived on Zenodo. 
+A description of the dataset is available on the [permanent archive](https://doi.org/10.17605/osf.io/uyg7m) of v1.0 on OSF. The [latest release](https://doi.org/10.5281/zenodo.3888849) and previous releases of ChillsMus are available in this repository, and are permanently archived on Zenodo. 
 
 ## Community guidelines
 
