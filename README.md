@@ -1,7 +1,7 @@
 # ChillsMus
 
 [![doi](https://zenodo.org/badge/DOI/xx.xxxx/zenodo.xxxxxxx.svg)](https://doi.org/xx.xxxx/zenodo.xxxxxxx)
-[![release](https://img.shields.io/github/v/release/remidefleurian/chills)](https://github.com/remidefleurian/chillsmus/releases)
+[![release](https://img.shields.io/github/v/release/remidefleurian/chillsmus)](https://github.com/remidefleurian/chillsmus/releases)
 [![license](https://img.shields.io/github/license/remidefleurian/chillsmus)](https://github.com/remidefleurian/chillsmus/blob/master/LICENSE)
 
 ChillsMus is a dataset which contains, to our knowledge, all mentions of pieces of music which have been reported to elicit chills in the academic literature on chills in music. 
