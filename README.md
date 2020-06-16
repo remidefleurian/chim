@@ -11,7 +11,7 @@ The Chills in Music (ChiM) dataset contains, to our knowledge, all mentions of p
 
 This dataset is associated with the following article, and can be cited as such:
 
-> de Fleurian, R., & Pearce, M. T. (xxxx). Chills in music: A critical review. *Neurosci. Biobehav. Rev.*, *xx*, xxx–xxx. doi: [10.1016/j.neubiorev.xxxx.xx.xxx](https://doi.org/10.1016/j.neubiorev.xxxx.xx.xxx)
+> de Fleurian, R., & Pearce, M. T. (xxxx). Chills in music: A critical review. *Journal*, *nn*, ppp–ppp. doi: [xx.xxxx/journal.xxxx.xx.xxx](https://doi.org/xx.xxxx/journal.xxxx.xx.xxx)
 
 A description of the dataset is available on the [permanent archive](https://doi.org/10.17605/osf.io/uyg7m) of v1.0 on OSF. The [latest release](https://doi.org/10.5281/zenodo.3888849) and previous releases of ChiM are available in this repository, and are permanently archived on Zenodo. 
 
