@@ -11,7 +11,7 @@ The Chills in Music (ChiM) dataset contains, to our knowledge, all pieces of mus
 
 This dataset is associated with the following article, and can be cited as such:
 
-> de Fleurian, R., & Pearce, M. T. (xxxx). Chills in music: A critical review. *Journal*, *nn*, ppp–ppp. doi: [xx.xxxx/journal.xxxx.xx.xxx](https://doi.org/xx.xxxx/journal.xxxx.xx.xxx)
+> de Fleurian, R., & Pearce, M. T. (2020). Chills in music: An integrative review. *PsyArXiv*. doi: [10.31234/osf.io/yc6d8](https://doi.org/10.31234/osf.io/yc6d8)
 
 ## Description
 
